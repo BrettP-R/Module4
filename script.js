@@ -64,4 +64,5 @@ for (let idx=0; idx < names.length; idx++) {
     helloSpeaker.name = names[idx];
     helloSpeaker.speak();
   }
+  console.log;
 }
